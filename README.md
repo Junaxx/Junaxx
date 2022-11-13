@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Junaxx
 - 👀 I’m interested in MINT
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 <!-- 💞️ I’m looking to collaborate on ...--->
 <!---
 Junaxx/Junaxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
